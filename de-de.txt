@@ -55,7 +55,7 @@ language: Deutsch
   "LRS Status Window" = "LRS-Status-Fenster"
 
 
-"Modify" = "Bearbeiten"
+"Modify" = "Noten"
   "Notes" = "Noten"
   "Insert Lyrics..." = "Lyrikeingabe..."
   "Reset Phonemes" = "Phoneme zurücksetzen"
